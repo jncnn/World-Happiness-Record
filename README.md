@@ -4,13 +4,12 @@ This document contains guidelines, requirements, and suggestions for Project 1.
 
 ## Team Effort
 
-Before anything, remember that Projects are a **group effort**: Working closely with your teammates is a requirement. This both helps teach real-world collaborative workflows, and enables you to tackle more difficult problems than you'd be able to working alone.
-
-In other words, working in groups allows you to **work smart** and **dream big**. Take advantage of it!
+Project completed by Habibe Aydin and Mai Kou
 
 ## Project Proposal
+Project is consist of world happiness score from 2016-2020 and more comparison about 2019 and 2020 score to investigate Covid-19 Pandemic has any affect on Happines Score.
 
-Before you start writing any code, your group should outline the scope and purpose of your project. This helps provide direction and prevent [scope creep](https://en.wikipedia.org/wiki/Scope_creep).
+
 
 Write this as a brief summary of your interests and intent, including:
 
