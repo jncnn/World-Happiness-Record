@@ -13,6 +13,7 @@ Project is consist of world happiness score from 2016-2020 and more comparison a
 
 Write this as a brief summary of your interests and intent, including:
 
+
 * The kind of data you'd like to work with/field you're interested in (e.g., geodata, weather data, etc.)
 
 * The kinds of questions you'll be asking of that data
@@ -24,24 +25,13 @@ In other words, write down what kind of data you plan to work with, and what kin
 > Our project is to uncover patterns in criminal activity around Los Angeles. We'll examine relationships between types of crime and location; crime rates and times of day; trends in crime rates over the course of the year; and related questions, as the data admits.
 
 ## Finding Data
+All data downloaded from Kaggle.com
 
 Once your group has written an outline, it's time to start hunting for data. You are free to use data from any source, but we recommend the following curated sources of high-quality data:
 
-* [data.world](https://data.world/)
 
 * [Kaggle](https://www.kaggle.com/)
 
-* [Data.gov](https://www.data.gov)
-
-* [Public APIs](https://github.com/abhishekbanthia/Public-APIs)
-
-* [Awesome-APIs List](https://github.com/Kikobeats/awesome-api)
-
-* [Medium APIs List](https://medium.com/@benjamin_libor/a-curated-collection-of-over-150-apis-to-build-great-products-fdcfa0f361bc)
-
-Chances are you'll have to update your Project Outline as you explore the available data. **This is fine**—adjustments like this are part of the process! Just make sure everyone in the group is up-to-speed on the goals of the project as you make changes.
-
-Make sure that your data is not too large for local analysis. **Big Data** datasets are difficult to manage locally, so consider a subset of that data or a different dataset altogether.
 
 ## Data Cleanup & Analysis
 
