@@ -1,4 +1,4 @@
-# Guidelines for Project 1
+# Guidelines for Project 
 
 This document contains guidelines, requirements, and suggestions for Project 1.
 
